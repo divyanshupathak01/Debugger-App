@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 streamlit==1.35.0
 pandas==2.2.2
 sentence-transformers==2.7.0
@@ -6,3 +7,11 @@ torchvision==0.18.0
 numpy==1.26.4
 scikit-learn==1.5.0
 beautifulsoup4==4.12.3
+=======
+streamlit
+pandas
+sentence-transformers
+numpy
+scikit-learn
+beautifulsoup4
+>>>>>>> 0554f6cc563e9ca43a948d45bf096863900eabaf
